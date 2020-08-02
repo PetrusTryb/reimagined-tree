@@ -1,5 +1,5 @@
-import os
 import shutil
+import os
 import argparse
 def create(depth=0,dir=""):
 	if(depth<5):
